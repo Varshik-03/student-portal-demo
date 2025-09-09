@@ -4,4 +4,4 @@ suc: 2341440367
 hall ticket no: 723127205225
 phno: 8919556443
 email: varshikvasupalli03@gmail.com
-address: visakhapatnam
+address: vizag
